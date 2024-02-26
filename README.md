@@ -1,8 +1,8 @@
 # pluralize
 
-**First Name:**
+**First Name: Meredith
 
-**Last Name:**
+**Last Name: Gatlin
 
 Go to `pluralize.js` and implement the function `pluralize()`. 
 
