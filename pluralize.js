@@ -1,8 +1,8 @@
 // Returns the number and pluralized form, like "5 cats" or "1 dog", given
 // a noun and count.
-
+let result
 function pluralize(noun, count) {
-  if (count > 1) {
+  if (count != 1) {
     return count + ' ' + noun + 's';
   } else {
     return count + ' ' + noun;
